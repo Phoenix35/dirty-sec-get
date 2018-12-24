@@ -1,0 +1,30 @@
+{
+  "name": "@phoenix35/dirty-sec-get",
+  "version": "0.1.0",
+  "description": "Returns the FULL body of an HTTPS GET response",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phoenix35/dirty-sec-get.git"
+  },
+  "keywords": [
+    "https",
+    "http",
+    "get",
+    "fetch",
+    "promise",
+    "async"
+  ],
+  "author": "Phoenix35",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Phoenix35/dirty-sec-get/issues"
+  },
+  "homepage": "https://github.com/Phoenix35/dirty-sec-get#readme",
+  "engines": {
+    "node": ">=10"
+  }
+}
